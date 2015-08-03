@@ -2,4 +2,17 @@
     <string name="app_name">Project1</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <!--  Strings for accesses to the API -->
+    <string name="API_key" translate="false">1e672e846f5b880e17ebafa27794858a</string>
+    <string name="API_URL_base" translate="false">https://api.themoviedb.org/3/</string>
+    <string name="API_URL_image_base" translate = "false">http://image.tmdb.org/t/p/</string>
+    <string name="API_image_size_preferred">w185</string>
+    <string name="API_image_size_default">original</string>
+    <string name="API_discover" translate="false">discover/movie</string>
+    <string name="API_key_query" translate="false">api_key</string>
+    <string name="API_sort_query" translate="false">sort_by</string>
+    <string name="API_sort_by_pop" translate="false">popularity.desc</string>
+    <string name="API_sort_by_vote" translate="false">vote_average.desc</string>
+
 </resources>
